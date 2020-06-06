@@ -20,3 +20,23 @@
 
 ### Fonte dos dados
 https://opendatasus.saude.gov.br/dataset/bd-srag-2020
+
+### Instalação
+1. Baixar e instalar o Python 3.8.x pelo [site oficial](https://www.python.org/downloads/)
+2. Adicionar o python as [variáveis de ambiente](https://datatofish.com/add-python-to-windows-path/)
+3. Clonar esse repositório 
+```
+git clone https://github.com/mayaracsferreira/analise-opendatasus-covid19.git
+```
+4. Entrar na pasta do repositório (pelo cmd ou terminal) e instalar as dependências
+```
+cd analise-opendatasus-covid19
+```
+
+```
+pip install -r requirements.txt
+```
+5. Executar o Jupyter Notebook
+```
+jupyter notebook
+```
