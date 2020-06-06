@@ -1,7 +1,10 @@
-útlima atualização 05/06/2020
+<div style="text-align: right"> <a href="/README.en.md ">English</a> </div>
+útlima atualização 06 de junho de 2020 
 
 # Análise de dados Open DataSUS
 ## O impacto da COVID-19 sobre a população negra no Brasil
+
+*Maybe you rather read this in [English]()*
 
 ### Instituição
 [Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/)
