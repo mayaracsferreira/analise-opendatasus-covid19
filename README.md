@@ -1,4 +1,4 @@
-<a href="/README.en.md" style="float: right;">English</a>
+[English](/README.en.md)
 útlima atualização 06 de junho de 2020 
 
 # Análise de dados Open DataSUS
