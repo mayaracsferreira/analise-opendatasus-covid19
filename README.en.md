@@ -1,4 +1,5 @@
-<a href="/README.md" style="float: right;">Português (Brasil)</a>
+[Português (Brasil)](/README.md)
+
 last update 6th June, 2020
 
 # Open DataSUS data analysis
