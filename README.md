@@ -1,6 +1,6 @@
 [English](/README.en.md)
 
-útlima atualização 06 de junho de 2020 
+útlima atualização 09 de junho de 2020 
 
 # Análise de dados Open DataSUS
 ## O impacto da COVID-19 sobre a população negra no Brasil
@@ -22,6 +22,9 @@
 
 ### Fonte dos dados
 https://opendatasus.saude.gov.br/dataset/bd-srag-2020
+
+*Os arquivos atingiram o tamanho limite do repositório e não puderam ser anexados. Download dos arquivos [aqui](https://www.dropbox.com/sh/qe11sudil5daxez/AAA5AeuYAgMLDE4okCmNUSIra?dl=0)*
+
 
 ### Instalação
 1. Baixar e instalar o Python 3.8.x pelo [site oficial](https://www.python.org/downloads/)

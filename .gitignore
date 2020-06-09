@@ -1,0 +1,8 @@
+### python
+pycache
+
+### jupyter
+.ipynb_checkpoints
+
+### metadados
+/arquivos

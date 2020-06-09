@@ -1,6 +1,6 @@
 [Português (Brasil)](/README.md)
 
-last update 6th June, 2020
+last update 9th June, 2020
 
 # Open DataSUS data analysis
 ## COVID-19 impact over black people in Brazil
@@ -22,6 +22,8 @@ last update 6th June, 2020
 
 ### Source
 https://opendatasus.saude.gov.br/dataset/bd-srag-2020
+
+*Files reached the repository size limit and could not be uploaded. Download files [here](https://www.dropbox.com/sh/qe11sudil5daxez/AAA5AeuYAgMLDE4okCmNUSIra?dl=0)*
 
 ### Installation
 1. Download and install Python 3.8.x from [offical website](https://www.python.org/downloads/)
