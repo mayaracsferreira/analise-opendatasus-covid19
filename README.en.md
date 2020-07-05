@@ -1,9 +1,9 @@
 [Português (Brasil)](/README.md)
 
-last update 9th June, 2020
+last update 4th July, 2020
 
 # Open DataSUS data analysis
-## COVID-19 impact over black people in Brazil
+## COVID-19 impact over people in Brazil
 
 ### Institution
 [Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/)
